@@ -90,7 +90,7 @@ Products are sourced through CJ Dropshipping and Zendrop — both offer US-based
 ## Setup
 
 ```bash
-git clone https://github.com/Stryder6/trendmatch-mvp.git
+git clone https://github.com/Des-Sleigh/trendmatch-mvp.git
 cd trendmatch-mvp
 npm install --legacy-peer-deps
 cp .env.local.example .env.local
@@ -108,4 +108,4 @@ See `.env.local.example` for required variables:
 
 ## Author
 
-Built by Desmond Sleigh — [GitHub](https://github.com/Stryder6)
+Built by Desmond Sleigh — [GitHub](https://github.com/Des-Sleigh)
